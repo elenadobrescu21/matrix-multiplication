@@ -35,5 +35,6 @@ int main (){
 			g<<matrez[i][j]<<' ';
 		g<<'\n';
 	}
+	g<<"mergee\n";
 	return 0;
 }
