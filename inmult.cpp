@@ -9,7 +9,7 @@ int main (){
 	int lin1,col1,lin2,col2,i,j,l,mat1[10][10],mat2[10][10],matrez[10][10],s;
 	f>>lin1>>col1>>lin2>>col2;
 	if (col1!=lin2){
-		cout<<"EROARE! Inmultirea nu e posibila.\n";
+		cout<<"EROARE\n";
 		return 0;
 	}
 	for (i=0;i<lin1;i++){
